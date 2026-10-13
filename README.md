@@ -2,6 +2,11 @@
 
 The research and development wing of the **PICT IEEE Student Branch (PISB)**. It helps students go past coursework: read papers, run small research projects, and write them up.
 
+## Current initiatives
+
+- **MRL shared task (EMNLP 2026):** PISB members are building question-answering datasets in five Devanagari-script languages (Sanskrit, Marwari, Marathi, Hindi, Bhojpuri) for the shared task at the *Workshop on Multilingual Representation Learning*.
+- **EPICS in IEEE proposal drafting:** teams have drafted several community-engineering proposals: dyslexia screening, wearable gas-leak detection, sanitation-worker safety, flood monitoring, and the Kisaan Mitra / CAAFAS → AgroSaarthi farming assistant. All are archived in [`epics-in-ieee`](https://github.com/PICT-IEEE-Student-Branch/epics-in-ieee).
+
 ## What's here
 
 | Folder | Contents |
